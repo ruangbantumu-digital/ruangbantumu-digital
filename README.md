@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🎀 Ruangbantumu
 
-<!--
-**ruangbantumu-digital/ruangbantumu-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tugas numpuk? Sini, Ruangbantumu bantu! 💗**
 
-Here are some ideas to get you started:
+Hai! Selamat datang di Ruangbantumu, teman andalanmu untuk membantu berbagai kebutuhan tugas dan dokumen. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🩷 Layanan Kami
+- ⌨️ Pengetikan dan penulisan dokumen
+- 📝 Editing dan merapikan dokumen
+- 🎨 Desain grafis
+- 📊 Pembuatan PPT dan presentasi
+- 📚 Makalah dan proposal
+- 🖨️ Print atau cetak dokumen
+- 💌 Bantuan kebutuhan tugas lainnya
+
+### 🌷 Kenapa Ruangbantumu?
+- Harga ramah di kantong
+- Hasil rapi dan menarik
+- Pelayanan ramah dan praktis
+- Bisa menyesuaikan kebutuhanmu
+
+**Yuk, bikin urusan tugas jadi lebih mudah bersama Ruangbantumu! 🎀💗**
